@@ -10,3 +10,5 @@ This is saleroa .
  - Ride rode bike
  - Read book 
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saleroa&layout=compact&theme=tokyonight)
